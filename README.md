@@ -1,7 +1,8 @@
 # web-ejemplo  
 Alumno: **Pankrasio**  
 ```diff  
-+{desafío}```
++{desafío}
+```
 *latam_*
 **Prueba**  
 *Prueba2*  
