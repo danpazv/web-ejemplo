@@ -8,7 +8,7 @@ Alumno: **Pankrasio**
 *Prueba2*  
 Prueba 3: https://www.emol.com/  
   
-Academia: **{Desafío} _latam__ **  
+Academia: **{Desafío} _latam__**  
 Desafío Final: **Desarrollo de Portafolio**  
 Alumno: **Daniel Paz Villaseca** 
 
